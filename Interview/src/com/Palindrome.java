@@ -28,7 +28,7 @@ public class Palindrome {
         String str = "geeks";
 
         // Convert the string to lowercase
-        str = str.toLowerCase();
+        str = str.toLowerCase(); 
         boolean A = isPalindrome(str);
         System.out.println(A);
 	}
